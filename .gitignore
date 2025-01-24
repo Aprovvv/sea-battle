@@ -1,0 +1,11 @@
+.git-auto
+bin
+doxygen
+obj
+*.cbp
+*.layout
+*.save
+*.depend
+*.html
+*.exe
+*.bmarks
